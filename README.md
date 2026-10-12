@@ -18,7 +18,7 @@
 
 [twitter]: https://twitter.com/Thomas
 [instagram]: https://www.instagram.com/Thomas
-[linkedin]: https://www.linkedin.com/
+[linkedin]: https://www.linkedin.com/in/thomas-jefferson-98bb3b336
 <!--
 **thomasjeffersoniii/thomasjeffersoniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
